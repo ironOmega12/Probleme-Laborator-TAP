@@ -3,11 +3,12 @@
 #include "ContBancar.h"
 #include <iostream>
 
-int main() {
+int main()
+{
     Banca banca("123");
 
-    Client client1("John", "Doe", "Str. Primaverii");
-    Client client2("Jane", "Doe", "Str. Florilor");
+    Client client1("Adrian", "Minune", "Str. Primaverii");
+    Client client2("Nicolae", "Guta", "Str. Florilor");
 
     ContBancar cont1_client1("RO01", 1000.0, "ron");
     ContBancar cont2_client1("EUR02", 500.0, "eur");
