@@ -1,2 +1,4 @@
 # Probleme-Laborator-TAP
-Probleme lab 1-4
+Nume: Opris
+Prenume: Adrian Ioan
+An: 2, grupa 2;
